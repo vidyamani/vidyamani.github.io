@@ -1,6 +1,6 @@
 ---
 layout: archives
-title: Archives
+title: Media
 icon: fas fa-archive
 order: 3
 ---

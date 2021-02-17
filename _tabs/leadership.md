@@ -1,6 +1,6 @@
 ---
 layout: categories
-title: Categories
+title: Leadership
 icon: fas fa-stream
 order: 1
 ---
